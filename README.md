@@ -36,12 +36,10 @@ Autoencoder Neural Network
 Support Vector Machines
 All these models are trained on the dataset and evaluation of the model is done with the test dataset. The elaborate details of the models & its training are mentioned in Phishing Website Detection_Models & Training.ipynbOpen In Colab
 
-Presentation
-The short video presentaion for this project is @ https://youtu.be/I1refTZp-pg.
-The slide presentaion used in this video is Phishing Website Detection by Machine Learning Techniques Presentation.pdf
 
-End Results
+
+# End Results
 From the obtained results of the above models, XGBoost Classifier has highest model performance of 86.4%. So the model is saved to the file 'XGBoostClassifier.pickle.dat'
 
-Next Steps
+# Next Steps
 This project can be further extended to creation of browser extention or developed a GUI which takes the URL and predicts it's nature i.e., legitimate of phishing. As of now, I am working towards the creation of browser extention for this project. And may even try the GUI option also. The further developments will be updated at the earliest.
